@@ -1,5 +1,3 @@
-# Para-fio
-Para el amor de mi vida, que sepas que te amo demasiado, sos de las mejores personas que he conocido.y voy a querer darte amor siempre. 
 <!DOCTYPE html>
 <html lang="es">
 <head>
@@ -58,7 +56,7 @@ Para el amor de mi vida, que sepas que te amo demasiado, sos de las mejores pers
     </p>
     <p>
       Gracias por existir<br>
-      y hacer mis días más lindos.
+      y hacer mis días más lindos. te amo demasiado
     </p>
     <div class="heart">💘</div>
   </div>
